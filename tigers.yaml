@@ -14,4 +14,3 @@ members:
   - Member
 
 fetch: this!
-new: branch!
