@@ -13,3 +13,4 @@ members:
   - Reset
 
 fetch: this!
+new: branch!
