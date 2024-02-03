@@ -11,6 +11,7 @@ members:
   - George
   - Park
   - Reset
+  - Member
 
 fetch: this!
 new: branch!
